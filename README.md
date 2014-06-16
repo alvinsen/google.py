@@ -3,6 +3,8 @@ g
 
 Search available fast google ip for blocked users.
 
+![](screencast-by-licecap.gif)
+
 Install
 -------
 
