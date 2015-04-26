@@ -16,5 +16,5 @@ setup(
     entry_points={
         'console_scripts': ['google=google.g:main']
     },
-    install_requires=['requests', 'gevent']
+    install_requires=['requests==2.5.0', 'gevent==1.0.1']
 )

@@ -1,4 +1,4 @@
-include g/ips.json LICENSE-BSD README.md
+include google/ips.json LICENSE-BSD README.md
 recursive-exclude venv *
 recursive-exclude dist *
 recursive-exclude build *
